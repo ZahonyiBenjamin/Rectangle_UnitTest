@@ -1,0 +1,7 @@
+C:\Users\diak\Desktop\1-14-1\KB\17 teglalap\Egysegteszt_ZahonyiBenjamin\Egysegteszt_ZahonyiBenjamin\bin\Debug\Egysegteszt_ZahonyiBenjamin.exe.config
+C:\Users\diak\Desktop\1-14-1\KB\17 teglalap\Egysegteszt_ZahonyiBenjamin\Egysegteszt_ZahonyiBenjamin\bin\Debug\Egysegteszt_ZahonyiBenjamin.exe
+C:\Users\diak\Desktop\1-14-1\KB\17 teglalap\Egysegteszt_ZahonyiBenjamin\Egysegteszt_ZahonyiBenjamin\bin\Debug\Egysegteszt_ZahonyiBenjamin.pdb
+C:\Users\diak\Desktop\1-14-1\KB\17 teglalap\Egysegteszt_ZahonyiBenjamin\Egysegteszt_ZahonyiBenjamin\obj\Debug\Egysegteszt_ZahonyiBenjamin.csproj.AssemblyReference.cache
+C:\Users\diak\Desktop\1-14-1\KB\17 teglalap\Egysegteszt_ZahonyiBenjamin\Egysegteszt_ZahonyiBenjamin\obj\Debug\Egysegteszt_ZahonyiBenjamin.csproj.CoreCompileInputs.cache
+C:\Users\diak\Desktop\1-14-1\KB\17 teglalap\Egysegteszt_ZahonyiBenjamin\Egysegteszt_ZahonyiBenjamin\obj\Debug\Egysegteszt_ZahonyiBenjamin.exe
+C:\Users\diak\Desktop\1-14-1\KB\17 teglalap\Egysegteszt_ZahonyiBenjamin\Egysegteszt_ZahonyiBenjamin\obj\Debug\Egysegteszt_ZahonyiBenjamin.pdb
